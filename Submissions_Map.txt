@@ -1,0 +1,12 @@
+*************
+Submission_1: Gradient Boosting Trees Model, threshold = 0.5 custom features (not using all features), and 80% of Data for Training.
+Submission_2: Gradient Boosting Trees Model, threshold = 0.5, all features, and 80% of Data for Training.
+Submission_3: Gradient Boosting Trees Model, threshold = 0.5, all features, and 90% of Data for Training.
+Submission_4: Gradient Boosting Trees Model, best threshold, custom features (not using all features), and 80% of Data for Training.
+Submission_5: Random Forest Model, best threshold, custom features (not using all features), and 80% of Data for Training.
+Submission_6: Random Forest Model, best threshold, custom features (not using all features), and 90% of Data for Training.
+Submission_7: CART Model, best threshold, custom features (not using all features), and 80% of Data for Training.
+Submission_8: CART Model, best threshold, custom features (not using all features), and 90% of Data for Training.
+Submission_9: CART Model, best threshold, all features, and 80% of Data for Training.
+Submission_10: Random Forest Model, best threshold, all features, and 80% of Data for Training.
+*************
